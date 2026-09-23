@@ -1,5 +1,4 @@
-package com.example.analog.ui.theme
-import com.example.analog.Shape
+package com.example.analog
 
 
 class Diamond (
